@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest version of Mendeley Desktop.</string>
     <key>Identifier</key>
-    <string>com.github.Riddl0rd.pkg.Mendeley</string>
+    <string>com.github.riddl0rd.pkg.Mendeley</string>
     <key>Input</key>
     <dict>
   <key>MinimumVersion</key>
