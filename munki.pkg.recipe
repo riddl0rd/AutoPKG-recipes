@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>com.github.jessepeterson.munki.ImageJ</string>
+	<string>com.github.riddl0rd.pkg.ImageJ</string>
 	<key>Description</key>
-	<string>Downloads ImageJ and imports into Munki.</string>
+	<string>Downloads ImageJ and creates a PKG</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
